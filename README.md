@@ -59,15 +59,22 @@ and <strong>network/communication protocols</strong>.
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerem-apaydin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6"
+    src="https://github-readme-stats-kerem-apaydin.vercel.app/api/top-langs/?username=kerem-apaydin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kerem-apaydin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true"
+    src="https://github-readme-stats-kerem-apaydin.vercel.app/api?username=kerem-apaydin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true"
     alt="GitHub Stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=kerem-apaydin&theme=dark&hide_border=true&background=00000000"
+    alt="Contribution Streak"
   />
 </p>
 
@@ -80,8 +87,3 @@ and <strong>network/communication protocols</strong>.
 - **Email:** *apaydinkerem18@gmail.com*
 
 ---
-
-## Visitor Count
-<p align="left">
-  <img src="https://profile-counter.glitch.me/kerem-apaydin/count.svg" />
-</p>
